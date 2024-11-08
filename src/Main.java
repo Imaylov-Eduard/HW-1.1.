@@ -56,5 +56,7 @@ public class Main {
         System.out.println(TotalHours);
         System.out.println("Если в компании работает " + TotalEmployees + " человека " + "то всего " + TotalHours + " часа работы может быть поделено между сотрудниками ");
         // задание №8.2.2.
+
+        System.out.println("Готовая домашняя работа");
     }
 }
