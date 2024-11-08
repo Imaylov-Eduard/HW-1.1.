@@ -58,5 +58,7 @@ public class Main {
         // задание №8.2.2.
 
         System.out.println("Готовая домашняя работа");
+
+        System.out.println(111);
     }
 }
